@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+¿Qué se supone que pasará ahora? NegroBolche
 Use the left arrow to go back!
